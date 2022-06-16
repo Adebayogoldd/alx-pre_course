@@ -1,5 +1,3 @@
 My first readme
 
-Updates here
-
-Socrates
+Command line updates
